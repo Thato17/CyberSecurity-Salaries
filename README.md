@@ -1,6 +1,8 @@
 # CyberSecurity-Salaries
 
-This is a simple dashboard to illustrate the range of salaries across different countries around the world.
+*A researcher is looking for simple dashboard to illustrate the range of salaries across different countries around the world.
+
+*
 
 ![Screenshot 2022-10-20 105721](https://user-images.githubusercontent.com/114568832/196905114-5b0cbc81-93ab-4950-96aa-47b721df48fc.png)
 
